@@ -38,9 +38,6 @@ An in-game and dashboard companion that remembers everything.
 - Frontend - https://blunder-therapist-frontend.vercel.app
 - Backend - https://blunder-therapist-backend-production.up.railway.app
 
-- GitHub Backend - 
-- 
-
 ---
 
 ## 🛠️ Tech Stack
