@@ -33,12 +33,13 @@ An in-game and dashboard companion that remembers everything.
 - **Cross-Game Insights:** Ask "Why do I keep losing in the endgame?" and get an answer based on your actual behavioral history.
 
 ---
+
 ## Links
+- Frontend - https://blunder-therapist-frontend.vercel.app
+- Backend - https://blunder-therapist-backend-production.up.railway.app
 
-Frontend - https://blunder-therapist-frontend.vercel.app
-Backend - https://blunder-therapist-backend-production.up.railway.app
-
-GitHub Backend - 
+- GitHub Backend - 
+- 
 
 ---
 
